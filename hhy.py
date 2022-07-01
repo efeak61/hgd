@@ -1,18 +1,12 @@
 import random
 
-x=None
-y=0
-z=0
-kc=0
-kn=0
-cn=0
+y,x=0
+kc,kn,cn=0
 g=0
-a=0
-b=0
+a,b=0
+dd,yd,yy=0
+x=None
 knt="bilinmiyor"
-dd=0
-yd=0
-yy=0
 
 #########################
 # ___arasındaki sayı___
